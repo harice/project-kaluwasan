@@ -95,7 +95,7 @@ Once you have completed the installation of the dependencies above. You are read
 
 1. Pull down repo to `~/Workspace/projects/project-kaluwasan`
 
-    `git clone git@github.com:ElementzInteractive/genesis-project-api.git ~/Workspace/projects/genesis-project-api`
+    `git clone git@github.com:ElementzInteractive/project-kaluwasan.git ~/Workspace/projects/genesis-project-api`
 
 2. Create a symlink to be used as a volume, and maintain compatibility with your OS X friends
 
