@@ -93,7 +93,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-c
 
 Once you have completed the installation of the dependencies above. You are ready to setup the cluster.
 
-1. Pull down repo to `~/Workspace/projects/genesis-project-api`
+1. Pull down repo to `~/Workspace/projects/project-kaluwasan`
 
     `git clone git@github.com:ElementzInteractive/genesis-project-api.git ~/Workspace/projects/genesis-project-api`
 
